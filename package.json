@@ -1,0 +1,23 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "node blog",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/couchjanus/node-blog.git"
+  },
+  "keywords": [
+    "node",
+    "js"
+  ],
+  "author": "Couch Janus",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/couchjanus/node-blog/issues"
+  },
+  "homepage": "https://github.com/couchjanus/node-blog#readme"
+}
